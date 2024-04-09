@@ -1,4 +1,3 @@
-package com.fatima;
 
 import java.util.Arrays;
 
